@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Calculator Body -->
+    <rect x="262" y="200" width="500" height="624" rx="40" fill="#2196F3"/>
+    
+    <!-- Display -->
+    <rect x="292" y="240" width="440" height="120" rx="16" fill="#1A237E"/>
+    
+    <!-- Buttons -->
+    <g id="buttons">
+        <!-- Row 1 -->
+        <rect x="292" y="400" width="95" height="95" rx="12" fill="white" fill-opacity="0.9"/>
+        <rect x="417" y="400" width="95" height="95" rx="12" fill="white" fill-opacity="0.9"/>
+        <rect x="542" y="400" width="95" height="95" rx="12" fill="white" fill-opacity="0.9"/>
+        <rect x="667" y="400" width="65" height="95" rx="12" fill="white" fill-opacity="0.7"/>
+        
+        <!-- Row 2 -->
+        <rect x="292" y="515" width="95" height="95" rx="12" fill="white" fill-opacity="0.9"/>
+        <rect x="417" y="515" width="95" height="95" rx="12" fill="white" fill-opacity="0.9"/>
+        <rect x="542" y="515" width="95" height="95" rx="12" fill="white" fill-opacity="0.9"/>
+        <rect x="667" y="515" width="65" height="95" rx="12" fill="white" fill-opacity="0.7"/>
+        
+        <!-- Row 3 -->
+        <rect x="292" y="630" width="95" height="95" rx="12" fill="white" fill-opacity="0.9"/>
+        <rect x="417" y="630" width="95" height="95" rx="12" fill="white" fill-opacity="0.9"/>
+        <rect x="542" y="630" width="95" height="95" rx="12" fill="white" fill-opacity="0.9"/>
+        <rect x="667" y="630" width="65" height="210" rx="12" fill="#1565C0"/>
+        
+        <!-- Row 4 -->
+        <rect x="292" y="745" width="220" height="95" rx="12" fill="white" fill-opacity="0.9"/>
+        <rect x="542" y="745" width="95" height="95" rx="12" fill="white" fill-opacity="0.9"/>
+    </g>
+</svg> 

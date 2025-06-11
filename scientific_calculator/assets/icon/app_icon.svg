@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background Circle -->
+    <circle cx="512" cy="512" r="460" fill="url(#gradient_bg)"/>
+    
+    <!-- Calculator Body -->
+    <rect x="262" y="200" width="500" height="624" rx="40" fill="white"/>
+    
+    <!-- Display -->
+    <rect x="292" y="240" width="440" height="120" rx="16" fill="#1A237E"/>
+    <text x="682" y="320" fill="#E3F2FD" text-anchor="end" font-family="monospace" font-size="48" font-weight="bold">8588</text>
+    
+    <!-- Buttons -->
+    <g id="buttons">
+        <!-- Row 1 -->
+        <rect x="292" y="400" width="95" height="95" rx="12" fill="#E3F2FD"/>
+        <text x="339" y="455" fill="#1565C0" text-anchor="middle" font-family="sans-serif" font-size="32">7</text>
+        
+        <rect x="417" y="400" width="95" height="95" rx="12" fill="#E3F2FD"/>
+        <text x="464" y="455" fill="#1565C0" text-anchor="middle" font-family="sans-serif" font-size="32">8</text>
+        
+        <rect x="542" y="400" width="95" height="95" rx="12" fill="#E3F2FD"/>
+        <text x="589" y="455" fill="#1565C0" text-anchor="middle" font-family="sans-serif" font-size="32">9</text>
+        
+        <rect x="667" y="400" width="65" height="95" rx="12" fill="#BBDEFB"/>
+        <text x="699" y="455" fill="#1565C0" text-anchor="middle" font-family="sans-serif" font-size="32">÷</text>
+        
+        <!-- Row 2 -->
+        <rect x="292" y="515" width="95" height="95" rx="12" fill="#E3F2FD"/>
+        <text x="339" y="570" fill="#1565C0" text-anchor="middle" font-family="sans-serif" font-size="32">4</text>
+        
+        <rect x="417" y="515" width="95" height="95" rx="12" fill="#E3F2FD"/>
+        <text x="464" y="570" fill="#1565C0" text-anchor="middle" font-family="sans-serif" font-size="32">5</text>
+        
+        <rect x="542" y="515" width="95" height="95" rx="12" fill="#E3F2FD"/>
+        <text x="589" y="570" fill="#1565C0" text-anchor="middle" font-family="sans-serif" font-size="32">6</text>
+        
+        <rect x="667" y="515" width="65" height="95" rx="12" fill="#BBDEFB"/>
+        <text x="699" y="570" fill="#1565C0" text-anchor="middle" font-family="sans-serif" font-size="32">×</text>
+        
+        <!-- Row 3 -->
+        <rect x="292" y="630" width="95" height="95" rx="12" fill="#E3F2FD"/>
+        <text x="339" y="685" fill="#1565C0" text-anchor="middle" font-family="sans-serif" font-size="32">1</text>
+        
+        <rect x="417" y="630" width="95" height="95" rx="12" fill="#E3F2FD"/>
+        <text x="464" y="685" fill="#1565C0" text-anchor="middle" font-family="sans-serif" font-size="32">2</text>
+        
+        <rect x="542" y="630" width="95" height="95" rx="12" fill="#E3F2FD"/>
+        <text x="589" y="685" fill="#1565C0" text-anchor="middle" font-family="sans-serif" font-size="32">3</text>
+        
+        <rect x="667" y="630" width="65" height="210" rx="12" fill="#2196F3"/>
+        <text x="699" y="735" fill="white" text-anchor="middle" font-family="sans-serif" font-size="32">=</text>
+        
+        <!-- Row 4 -->
+        <rect x="292" y="745" width="220" height="95" rx="12" fill="#E3F2FD"/>
+        <text x="402" y="800" fill="#1565C0" text-anchor="middle" font-family="sans-serif" font-size="32">0</text>
+        
+        <rect x="542" y="745" width="95" height="95" rx="12" fill="#E3F2FD"/>
+        <text x="589" y="800" fill="#1565C0" text-anchor="middle" font-family="sans-serif" font-size="32">.</text>
+    </g>
+    
+    <!-- Gradients -->
+    <defs>
+        <linearGradient id="gradient_bg" x1="512" y1="52" x2="512" y2="972" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#2196F3"/>
+            <stop offset="1" stop-color="#1976D2"/>
+        </linearGradient>
+    </defs>
+</svg> 
